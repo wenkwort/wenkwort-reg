@@ -1,0 +1,23 @@
+{
+  "name": "@wenkwort/wenkwort-reg",
+  "version": "1.0.0",
+  "description": "jopa",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenkwort/wenkwort-reg.git"
+  },
+  "keywords": [
+    "jopa",
+    "chlen"
+  ],
+  "author": "makar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenkwort/wenkwort-reg/issues"
+  },
+  "homepage": "https://github.com/wenkwort/wenkwort-reg#readme"
+}
